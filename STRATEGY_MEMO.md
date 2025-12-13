@@ -3,7 +3,7 @@
 
 **Submission by:** PauloTuppy  
 **Competition:** Martingale Hacks Winter 2025  
-**Kaggle Notebook:** https://www.kaggle.com/code/paulotuppy/martingale-spy-text-signals  
+**Kaggle Notebook:** https://www.kaggle.com/code/paulotuppy/martingale-spy-text-signals?scriptVersionId=285838137  
 
 ---
 
